@@ -17,7 +17,7 @@ Each feature represents characteristics of the cell nuclei present in a digitize
 
 ## 🚀 How It Works
 
-    1. Load the dataset from `sklearn.datasets`.
+    1. Load the dataset from sklearn.datasets.
     2. Split the data into training and testing sets (90% train, 10% test).
     3. Train a Logistic Regression model on the training data.
     4. Evaluate the model on both training and test data using accuracy score.
